@@ -34,4 +34,4 @@ And finally seeing 5 rows of data
 `aapl_data.head()`
 
 And then we get to this output: 
-(images/Screen Shot 2021-04-04 at 3.31.36 PM.png "AAPL and MSFT data")
+(../images/Screen Shot 2021-04-04 at 3.31.36 PM.png "AAPL and MSFT data")
