@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 2: Python AlgoTrader
+title: Day 2 of Python AlgoTrader
 ---
 
 Day 2 - Aug 05 2021 
