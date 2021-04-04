@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Hello Lovely People!
+title: Algorithmic Trading with Python
 ---
 
-
-# Python Algorithmic Trader
+Hello Lovely People! Follow along as I work on building an Algorithmic Trader in Python.
 
 Following a tutorial at [Free Code Camp](https://www.freecodecamp.org/news/algorithmic-trading-in-python/) is my next current obsession.
 It will be nice to get Jupyter notebooks up and running again. 
