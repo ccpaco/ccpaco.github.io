@@ -3,7 +3,7 @@ layout: post
 title: Day 2 of Python AlgoTrader
 ---
 
-Day 2 - Aug 05 2021 
+#Day 2 - Aug 05 2021 
 
 The day began with creating a new Jupyter notebook. 
 
