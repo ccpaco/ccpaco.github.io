@@ -40,8 +40,13 @@ And then we get to this output:
 ![So now I've got microsoft and aapl stock data. Too cool!](../images/Screen Shot 2021-04-04 at 3.31.36 PM.png "AAPL and MSFT data")
 
 To get started writing blog posts like this, I used github pages and Jekyll. This is free! Here are three helpful links as a thank you for reading so far.
+
 [Get started with a free blog using Jekyll and Github](https://jekyllrb.com/docs/github-pages/)
+
+
 [Master Markdown for writing posts!](https://www.markdownguide.org/basic-syntax/#overview)
+
+
 [Creating new posts for your Jekyll bloh](https://jekyllrb.com/docs/posts/)
 
 That's all folks!
