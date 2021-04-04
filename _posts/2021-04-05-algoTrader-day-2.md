@@ -3,8 +3,6 @@ layout: post
 title: Day 2 of Python AlgoTrader
 ---
 
-#Day 2 - Aug 05 2021 
-
 The day began with creating a new Jupyter notebook. 
 
 I had installed Python 2.7 and some version of Jupyter previously so I had to update to Python 3.7. Also had to update Jupyter and Pip 
