@@ -1,4 +1,9 @@
-# Day 2 - Aug 05 2021 
+---
+layout: post
+title: Day 2: Python AlgoTrader
+---
+
+Day 2 - Aug 05 2021 
 
 The day began with creating a new Jupyter notebook. 
 
@@ -34,4 +39,4 @@ And finally seeing 5 rows of data
 `aapl_data.head()`
 
 And then we get to this output: 
-(../images/Screen Shot 2021-04-04 at 3.31.36 PM.png "AAPL and MSFT data")
+![So now I've got microsoft and aapl stock data. Too cool!](../images/Screen Shot 2021-04-04 at 3.31.36 PM.png "AAPL and MSFT data")
