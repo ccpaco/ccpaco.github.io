@@ -20,4 +20,4 @@ This also happens to be my first Jekyll blog post. More to come!
 
 Good Morning from the Pacific
 
-- Chris
+Chris
