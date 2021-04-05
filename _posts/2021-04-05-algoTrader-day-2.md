@@ -7,7 +7,7 @@ The day began with creating a new Jupyter notebook.
 
 I had installed Python 2.7 and some version of Jupyter previously so I had to update to Python 3.7. Also had to update Jupyter and Pip 
 
-` python3 -m pip install --upgrade pip`
+`python3 -m pip install --upgrade pip`
 `python3 -m pip install --upgrade jupyter`
 
 Then installed necessary python libraries.
