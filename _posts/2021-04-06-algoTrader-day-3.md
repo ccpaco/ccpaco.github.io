@@ -23,7 +23,7 @@ And we see the following output:
 So for statistics type calculations, we can see the benefit of .describe().
 
 
-There is also the benefit of .resample(), which paints an even clearer data picture!
+There is also the benefit of .resample(), which expands the time range of data we can observe!
 
 
 ![msft resample](../images/resample_screenshot.png "Resample of MSFT")
