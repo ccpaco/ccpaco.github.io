@@ -18,9 +18,7 @@ IT Abilities:  Hardware repairs and upgrades, Terminal and Command Line, PC/Mac 
 Design: Adobe Photoshop & Illustrator, Figma, Sketch, Website/App Wireframing
 
 
-![image](https://user-images.githubusercontent.com/10329673/113667906-501f6f00-9666-11eb-82d0-f83648ff4989.png)
-
-
 ### CONTACT
+
 
 [chrischampaco@gmail.com](mailto:chrischampaco@gmail.com)
