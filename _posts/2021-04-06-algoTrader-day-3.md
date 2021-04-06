@@ -20,7 +20,13 @@ And we see the following output:
 ![aapl_data.describe() and msft_data.describe() !](../images/Screen Shot 2021-04-05 at 3.58.59 PM.png "Using ticker.describe()")
 
 
-So onwards we go through the tutorial.
+So for statistics type calculations, we can see the benefit of .describe().
+
+
+There is also the benefit of .resample(), which paints an even clearer data picture!
+
+
+![msft resample](../images/resample_screenshot.png "Resample of MSFT")
 
 
 Good afternoon from the Pacific
