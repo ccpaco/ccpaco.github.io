@@ -73,7 +73,7 @@ To get started writing blog posts like this, I used github pages and Jekyll. Thi
 [Master Markdown for writing posts!](https://www.markdownguide.org/basic-syntax/#overview)
 
 
-[Creating new posts for your Jekyll bloh](https://jekyllrb.com/docs/posts/)
+[Creating new posts for your Jekyll blog](https://jekyllrb.com/docs/posts/)
 
 
 That's all folks!
