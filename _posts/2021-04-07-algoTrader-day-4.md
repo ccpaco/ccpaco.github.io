@@ -70,7 +70,9 @@ Data Science is wonderfully simplified in modern years. If I can learn this, you
 ![data plot](../images/Screen Shot 2021-04-07 at 10.07.31 PM.png "Plot of data in graph form. Gnarly.")
 
 
-Actually, we've encountered some errors install matplotlib. Current output is as show. Perhaps I can get some help.
+Actually, we've encountered some errors install matplotlib. Current output is as show. Perhaps I can get some help solving this issue. But at least I learned something new today, getting snake emojis for Python Code. I did this by adding the jemoji gem in the config.yml file of my Jekyll Blog! 
+
+Thanks for reading.
 
 
 ![error output](../images/Screen Shot 2021-04-08 at 12.16.07 AM.png "Module does not exist. Wack")
