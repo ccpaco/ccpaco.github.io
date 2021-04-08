@@ -46,6 +46,15 @@ So next we have set our daily_return, replaced NA values with 0, and printing ou
 A few lines of Python more, and we get to plotting. Follow along.
 
 
+In the command line first, run pip install matplotlib and brew install python-matplotlib.
+
+
+:snake: `pip install matplotlib`
+
+
+:snake: `brew install python-matplotlib`
+
+
 :snake: `import matplotlib.pyplot as plt`
 
 
@@ -57,6 +66,14 @@ A few lines of Python more, and we get to plotting. Follow along.
 
 By this point we've got some nice charting going on from our captured Microsoft data. This is day 4 of creating a Python algorithmic trading advisor.
 Data Science is wonderfully simplified in modern years. If I can learn this, you can too.
+
+![data plot](../images/Screen Shot 2021-04-07 at 10.07.31 PM.png "Plot of data in graph form. Gnarly.")
+
+
+Actually, we've encountered some errors install matplotlib. Current output is as show. Perhaps I can get some help.
+
+
+![error output](../images/Screen Shot 2021-04-08 at 12.16.07 AM.png "Module does not exist. Wack")
 
 
 Good Evening from the Pacific
