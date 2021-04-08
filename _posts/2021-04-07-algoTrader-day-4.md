@@ -64,13 +64,13 @@ In the command line first, run pip install matplotlib and brew install python-ma
 :snake: `mav.plot()`
 
 
-By this point we've got some nice charting going on from our captured Microsoft data. This is day 4 of creating a Python algorithmic trading advisor.
-Data Science is wonderfully simplified in modern years. If I can learn this, you can too.
+By this point we've got some nice charting going on from our captured Microsoft data. This is day 4 of creating a Python algorithmic trading advisor. Data Science is wonderfully simplified in modern years. If I can learn this, you can too.
+
 
 ![data plot](../images/Screen Shot 2021-04-07 at 10.07.31 PM.png "Plot of data in graph form. Gnarly.")
 
 
-Actually, we've encountered some errors install matplotlib. Current output is as show. Perhaps I can get some help solving this issue. But at least I learned something new today, getting snake emojis for Python Code. I did this by adding the jemoji gem in the config.yml file of my Jekyll Blog! 
+Actually, we've encountered some errors using install matplotlib. Current output is shown below. Perhaps I can get some help solving this issue. But at least I learned something new today, getting snake emojis for Python Code! I did this by adding the jemoji gem in the config.yml file of my Jekyll Blog. 
 
 Thanks for reading.
 
@@ -81,7 +81,7 @@ Thanks for reading.
 ![jupyter lab](../images/Screen Shot 2021-04-08 at 12.46.09 AM.png "Debugging why installing matplotlib won't work. ")
 
 
-[No Module named matplotlib](https://stackoverflow.com/questions/43437884/jupyter-notebook-import-error-no-module-named-matplotlib)
+![Researching Stack Overflow](https://stackoverflow.com/questions/43437884/jupyter-notebook-import-error-no-module-named-matplotlib)
 
 
 Good Evening from the Pacific
