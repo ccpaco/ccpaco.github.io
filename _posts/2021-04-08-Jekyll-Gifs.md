@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 5: Gifs in Jekyll
+title: Day 5 Gifs in Jekyll
 ---
 
 Today we take a break from the Jupyter notebooks. It's something to do with matplotlib not installing properly. So as I continue researching a solution,
