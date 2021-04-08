@@ -81,7 +81,7 @@ Thanks for reading.
 ![jupyter lab](../images/Screen Shot 2021-04-08 at 12.46.09 AM.png "Debugging why installing matplotlib won't work. ")
 
 
-![Researching Stack Overflow](https://stackoverflow.com/questions/43437884/jupyter-notebook-import-error-no-module-named-matplotlib)
+[Researching Stack Overflow](https://stackoverflow.com/questions/43437884/jupyter-notebook-import-error-no-module-named-matplotlib)
 
 
 Good Evening from the Pacific
