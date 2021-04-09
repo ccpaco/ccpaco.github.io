@@ -43,7 +43,7 @@ to get our DALL-E clone up and running. Quite simple so far. Output shown below.
 Then we navigate to the usage.ipynb notebook and see the following code output.
 
 
-![usage.ipynb output](../image/s/Screen Shot 2021-04-09 at 10.56.15 AM.png)
+![usage notebook output](../image/Screen Shot 2021-04-09 at 10.56.15 AM.png)
 
 
 Good morning from the Pacific
