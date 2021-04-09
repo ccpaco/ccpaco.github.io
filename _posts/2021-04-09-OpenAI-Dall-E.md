@@ -52,7 +52,7 @@ But surprise! We get an error. _lzma module is missing!
 ![LZMA module missing? ](../images/Screen Shot 2021-04-09 at 12.09.43 PM.png)
 
 
-And...missing module error strikes again. For now, I'll just leave it at that. It's Friday. The weekend starts today. Avoiding burnout ensures good performance.
+And...missing module error strikes again. For now, I'll just leave it at that. It's Friday. The weekend starts today. Avoiding burnout ensures optimal performance where it's needed.
 
 
 Good Afternoon from the Pacific
