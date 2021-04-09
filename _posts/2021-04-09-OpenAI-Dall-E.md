@@ -43,10 +43,19 @@ to get our DALL-E clone up and running. Quite simple so far. Output shown below.
 Then we navigate to the usage.ipynb notebook and see the following code output.
 
 
-![usage notebook output](../image/Screen Shot 2021-04-09 at 10.56.15 AM.png)
+![usage notebook output](../images/Screen Shot 2021-04-09 at 10.56.15 AM.png)
 
 
-Good morning from the Pacific
+But surprise! We get an error. _lzma module is missing!
+
+
+![LZMA module missing? ](../images/Screen Shot 2021-04-09 at 12.09.43 PM.png)
+
+
+And I'll leave it at that. It's Friday. The weekend starts today. 
+
+
+Good Afternoon from the Pacific
 
 
 Chris
