@@ -33,7 +33,7 @@ Jekyll is quite impressive so far. Using Jekyll and Github Pages, I've been able
 with Free Code Camp and Per Scholas tutorials have also kept me quite busy. 
 
 
-[![Nasa Clair de Lune 4k](https://img.youtube.com/vi/cFC71rFejvo&t=25s/38.jpg)](https://www.youtube.com/watch?v=cFC71rFejvo&t=25s)
+[![Nasa Clair de Lune 4k](https://img.youtube.com/vi/cFC71rFejvo&t=25s/0.jpg)](https://www.youtube.com/watch?v=cFC71rFejvo&t=25s)
 
 
 What's your learning style like?
