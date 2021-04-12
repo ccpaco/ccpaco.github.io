@@ -22,8 +22,7 @@ First, we made a gif that is also a link to the original video.
 
 Next, a similar gif which ping-pongs (loops back) after it plays. Using the same gif creation tool, too.
 
-
-https://user-images.githubusercontent.com/10329673/114448347-4925be80-9b88-11eb-92e8-557eb15a635a.mp4
+![gif3](https://user-images.githubusercontent.com/10329673/114448347-4925be80-9b88-11eb-92e8-557eb15a635a.mp4)
 
 And amazingly enough, an Mp4 that caught audio in the original video! It does play the audio backwards halfway (the point the gif reverses play) so it's quite eerie...but space appropriate!
 
