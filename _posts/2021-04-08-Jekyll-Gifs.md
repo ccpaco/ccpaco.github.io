@@ -16,13 +16,11 @@ I love Space, so let's see if NASA has some extra imagery lying around. I found 
 
 [![Moon Gif](../images/gif.gif)](https://www.youtube.com/watch?v=cFC71rFejvo&t=25s "NASA Clair de Lune 4k")
 
-First, we made a gif that is also a link to the original video.
+First, we made a gif that is also a link to the original video. ^
+
 
 ![gif2](https://user-images.githubusercontent.com/10329673/114448239-25fb0f00-9b88-11eb-8fe5-dfb8b1cc17fd.gif)
 
-Next, a similar gif which ping-pongs (loops back) after it plays. Using the same gif creation tool, too.
-
-![gif3](https://user-images.githubusercontent.com/10329673/114448347-4925be80-9b88-11eb-92e8-557eb15a635a.mp4)
 
 And amazingly enough, an Mp4 that caught audio in the original video! It does play the audio backwards halfway (the point the gif reverses play) so it's quite eerie...but space appropriate!
 
