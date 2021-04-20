@@ -5,7 +5,7 @@
 
 Hoping to share what I've learned in my spare time. Will write blog posts to teach interesting things. Glad to have you here!
 
-Chris 
+- Chris 
 
 (p.s. this blog uses Jekyll and Github Pages. Read "Day 2" or "Day 3" article for the links to some helpful resources) 
 
