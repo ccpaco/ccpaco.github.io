@@ -1,4 +1,13 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
+> April, 2021: A learning blog for a self-taught developer. Take your curriculum into your own hands! 
+
+
+# A Coding Blog
+
+Hoping to share what I've learned in my spare time. Will write blog posts to teach interesting things. Glad to have you here!
+
+Chris 
+
+(p.s. this blog uses Jekyll and Github Pages. Read "Day 2" or "Day 3" article for the links to some helpful resources) 
 
 # Jekyll Now
 
