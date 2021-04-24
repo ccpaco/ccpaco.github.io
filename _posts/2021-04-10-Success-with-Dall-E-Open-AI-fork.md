@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 7 Working with OpenAI Dall-E pt 2
+title: Working with OpenAI Dall-E Part 2 - Setup success
 ---
 
 So, today (04/10/21), we have some odd developments. As I continued my research to get Jupyter Notebooks running with proper installs, and watching
