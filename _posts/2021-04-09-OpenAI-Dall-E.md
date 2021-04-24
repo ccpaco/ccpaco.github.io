@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 6 Working with OpenAI Dall-E 
+title: Working with OpenAI Dall-E Part 1 
 ---
 
 As listed on the Github repo's README.md file, 
