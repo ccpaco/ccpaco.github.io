@@ -15,11 +15,13 @@ I will be writing individual articles regarding my Full Stack training, how I us
 
 I will also continue experimenting with Jekyll to make this blog a bit more interesting. I'm thinking to include a projects page, a reading-list page, and an arts page (for my digital art and visual/audio elements). 
 
-And finally, probably the news I am most excited about : after months of following OpenAI's progress and I was accepted as a Private Beta Developer! In short, I get a bit of extra privelege for accessing the docs and tutorials, a playground, and even being part of a community of other AI/ML enthusiasts. The journey is only beginning, and it really feels like I want to just learn and create as much as I can.
+And finally, probably the news I am most excited about : after months of following OpenAI's progress, I was accepted as a Private Beta Developer! In short, I get a bit of extra privelege for accessing the docs and tutorials, a playground, and even being part of a community of other AI/ML enthusiasts. The journey is only beginning, and it really feels like I want to just learn and create as much as I can.
 
 ![Open AI Dashboard](../images/openaidash.png "Open AI Dashboard")
 
 It's gonna take patience, focus, and consistency, for as long as it takes. There is no off-switch for passion, but I do need to make sure I'm enjoying Alaska, keeping active, and prioritizing what really matters. 
 
 Good evening from the Northern Pacific and the Gulf of Alaska,
+
+
 Chris
