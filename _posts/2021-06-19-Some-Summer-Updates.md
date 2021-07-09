@@ -7,9 +7,14 @@ Greetings and salutations! It's been two and a half months since my last blog en
 
 Here are some screenshots from a personal use of AWS AI services, to scan the first two minutes of the "Popstar" by DJ Khaled ft. Drake music video. Surprisingly, even though Justin Bieber is the main actor in the music video, the "Celebrity" part of the AI Analysis didn't recognize him at all! But I did learn who Logan Richardson, with his brief 5 second appearance in the video, was. Apparently he is a celebrity. 
 
+## Drake appears to AWS AI
 ![Drake](../images/aws_ai_drake.png "Drake")
 
+## DJ Khaled appears to AI!
 ![DJ Khaled](../images/aws_ai_djkhaled.png "DJ Khaled")
+
+## But poor Justin Bieber. AWS doesn't recognize him. 
+![Justin Bieber](../images/aws_ai_jb.png "Justin Bieber")
 
 I will be writing individual articles regarding my Full Stack training, how I used AWS AI services to analyze a viral music video from DJ Khaled and Drake, as well as other entries not dealing with code.
 
