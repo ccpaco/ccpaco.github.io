@@ -3,7 +3,12 @@ layout: post
 title: Happy 4th of July! Viral LinkedIn post, Devops with DigitalOcean LAMP server, and fun with e.rip and kaboom.js
 ---
 
-It's been a few weeks since my last blog entry. I haven't touched much as much Machine Learning content lately, as I've been focusing primarily on job searching and staying on top of my college courses with University of the People. I've also been a bit more active on LinkedIn, and surprisingly enough after resharing a single Quantum / Artificial Intelligence post, I saw over 20,000 views of my post. Surprising, because it was just a reshare and it gained about 25 reactions (likes, hearts, etc). 
+It's been a few weeks since my last blog entry. I haven't touched much as much Machine Learning content lately, as I've been focusing primarily on job searching and staying on top of my college courses with University of the People. I've also been a bit more active on LinkedIn, and surprisingly enough after resharing a single Quantum / Artificial Intelligence post, I saw over 20,000 views of my post. Surprising, because it was just a reshare and it gained about 25 reactions (likes, hearts, etc). Statistically speaking, this is like a 1% engagement rating so although it was viral according to one number, the "true" marker of success (reactions) was somewhat low comparitively. 
+
+
+## You can see 20,000 views, but only 25 reactions
+![Top of post](../images/viral_LinkedInA)
+![Bottom of post](../images/viral_LinkedInB)
 
 On that note, I've tried to be more conscious of my time with technology. Overworking in a single day is a recipe for disaster and burnout as a programmer. The same rule applies if I were to focus full time on being a musician. Right now my main goals are to complete college courses this term to inch towards my Associate's degree in Computer Science, so I spend about 10-20 hours a week on college work. I usually spend another 10-20 hours reading (currently on Eloquent Javascript and Principia of Isaac Newton) or working on personal coding projects. 
 
@@ -25,7 +30,11 @@ I just finished a clone of SpaceInvaders using Kaboom.js on replit.com, and it w
 ![Space Invaders](../images/spaceInvaders.png)
 ![Super Mario Bros](../images/superMario.png)
 
-I also messed around a bit with e.rip after seeing it mentioned in Elon Musk's instagram bio, curious as to what it was. e.rip seems to be a link-shortener and "map" of sorts to host all kinds of links in one place, as well as see full analytics of what's going on. Visitors, visitor ip's, and click amount are all viewable. I made a quick page at [e.rip/openspace](https://e.rip/openspace) and it's pretty cool how quickly you can design together a nice looking page. After researching more, it seems like e.rip is built on a codebase called Biolinks made in php, as found [here](https://codecanyon.net/item/biolink-boost-instagram-bio-linking/20740546) and it appears that [AltumCode](https://altumcode.com/) was the original author. Just interesting information is all.   
+I also messed around a bit with e.rip after seeing it mentioned in Elon Musk's instagram bio, curious as to what it was. e.rip seems to be a link-shortener and "map" of sorts to host all kinds of links in one place, as well as see full analytics of what's going on. Visitors, visitor ip's, and click amount are all viewable. I made a quick page at [e.rip/openspace](https://e.rip/openspace) and it's pretty cool how quickly you can design together a nice looking page. After researching more, it seems like e.rip is built on a codebase called Biolinks made in php, as found [here](https://codecanyon.net/item/biolink-boost-instagram-bio-linking/20740546) and it appears that [AltumCode](https://altumcode.com/) was the original author of this code. Extremely interesting information after seeing how simple e.rip is to use.   
+
+## e.rip Analytics, block building for "link collection" pages.
+![e.rip blocks](../images/erip_blocks)
+![e.rip stats](../images/erip_links)
 
 As for college, I am taking a course in Ethics and Morality, and Programming I which is using Java. 
 
