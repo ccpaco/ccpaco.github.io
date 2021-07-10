@@ -9,20 +9,21 @@ On that note, I've tried to be more conscious of my time with technology. Overwo
 
 This past 4th of July Weekend I have been working on my LAMP server I made using DigitalOcean droplets. LAMP stands for Linux, Apache, MySQL andPHP/Perl/Python, running Ubuntu. It's been interesting setting up strictly using Linux on the commandline, and a bit frustrating but fun having to configure secure ssh connections. Soon though I'll be able to start launching some fun little apps here, and I feel like I'm growing a lot as a Web Developer, migrating into a pure LAMP Ubuntu environment from the good old Cpanel on BlueHost or GoDaddy. 
 
+## What setup looks like 
 ![Droplet](../images/lamp-droplet.png) 
-## What setup looks like ^
 
-![Terminal](../images/lamp-terminal.png)
+
 ## Connecting via the terminal, ssh and linux commands. Also note, UFW (Uncomplicated Firewall) and fail2ban security measures! :)  
+![Terminal](../images/lamp-terminal.png)
 
-![Live](../images/lamp-live.png)
 ## Have yet to configure or load much. I'm planning to experiment with several sites on one server, or multiple droplets for different sites.
+![Live](../images/lamp-live.png)
 
 I just finished a clone of SpaceInvaders using Kaboom.js on replit.com, and it was surprisingly easy to follow. They syntax for the framework was a bit unfamiliar but it was surprisingly fast. You can watch the tutorial for Kaboom.js games [here](https://www.youtube.com/watch?v=4OaHB0JbJDI&t=2852s). There is also a Super Mario clone I am working on right now.
 
+## Kaboom.JS games
 ![Space Invaders](../images/spaceInvaders.png)
 ![Super Mario Bros](../images/superMario.png)
-## Kaboom.JS games
 
 I also messed around a bit with e.rip after seeing it mentioned in Elon Musk's instagram bio, curious as to what it was. e.rip seems to be a link-shortener and "map" of sorts to host all kinds of links in one place, as well as see full analytics of what's going on. Visitors, visitor ip's, and click amount are all viewable. I made a quick page at [e.rip/openspace](https://e.rip/openspace) and it's pretty cool how quickly you can design together a nice looking page. After researching more, it seems like e.rip is built on a codebase called Biolinks made in php, as found [here](https://codecanyon.net/item/biolink-boost-instagram-bio-linking/20740546) and it appears that [AltumCode](https://altumcode.com/) was the original author. Just interesting information is all.   
 
