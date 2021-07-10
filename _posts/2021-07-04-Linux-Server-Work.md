@@ -53,6 +53,8 @@ As for college, I am taking a course in Ethics and Morality, and Programming I w
 Hope to see you all soon, with a few more coding projects and updates as they come along. I'll also be updating the blogs features and functionality in the near future, so please stay tuned!
 
 Best wishes from the Pacific North,
+
+
 Chris
 
 
