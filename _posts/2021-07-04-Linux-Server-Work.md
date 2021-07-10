@@ -11,9 +11,11 @@ On that note, I've tried to be more conscious of my time with technology. Overwo
 
 This past 4th of July Weekend I have been working on my LAMP server I made using DigitalOcean droplets. LAMP stands for Linux, Apache, MySQL andPHP/Perl/Python, running Ubuntu. It's been interesting setting up strictly using Linux on the commandline, and a bit frustrating but fun having to configure secure ssh connections. Soon though I'll be able to start launching some fun little apps here, and I feel like I'm growing a lot as a Web Developer, migrating into a pure LAMP Ubuntu environment from the good old Cpanel on BlueHost or GoDaddy. 
 
-##IMAGE HERE
+![Droplet](../images/lamp-droplet.png)
+![Terminal](../images/lamp-terminal.png)
+![Live](../images/lamp-live.png)
 
-I just finished a clone of SpaceInvaders using Kaboom.js on replit.com, and it was surprisingly easy to follow. They syntax for the framework was a bit unfamiliar but it was surprisingly fast. You can watch the tutorial for Kaboom.js games [here](https://www.youtube.com/watch?v=4OaHB0JbJDI&t=2852s).
+I just finished a clone of SpaceInvaders using Kaboom.js on replit.com, and it was surprisingly easy to follow. They syntax for the framework was a bit unfamiliar but it was surprisingly fast. You can watch the tutorial for Kaboom.js games [here](https://www.youtube.com/watch?v=4OaHB0JbJDI&t=2852s). There is also a Super Mario clone I am working on right now.
 
 ##IMAGE HERE
 
